@@ -50,9 +50,6 @@ public class GoogleReverseGeocoder {
 	}
 			
 	
-	public static void main(String args[]){
-		GoogleReverseGeocoder revG = new GoogleReverseGeocoder();
-		System.out.println(revG.reverseGeocode("Palms, Los Angeles, California").toString());
-	}
+
 
 }
